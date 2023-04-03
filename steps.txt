@@ -1,0 +1,1 @@
+step 1: Inside the directory run npm init -y : Createa a new npm package without asking any questions
